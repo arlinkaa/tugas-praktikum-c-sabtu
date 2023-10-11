@@ -2,7 +2,7 @@
 
 int main()
 {
-	int nim = 233149;
+	int nim = 2341007;
 	char* nama = "Arlinka";
 	char* jurusan = "teknik iformatika";
 	
